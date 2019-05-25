@@ -1,0 +1,8 @@
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Models\bin\Debug\netcoreapp2.2\App.Models.deps.json
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Models\bin\Debug\netcoreapp2.2\App.Models.dll
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Models\bin\Debug\netcoreapp2.2\App.Models.pdb
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Models\obj\Debug\netcoreapp2.2\App.Models.csproj.CoreCompileInputs.cache
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Models\obj\Debug\netcoreapp2.2\App.Models.AssemblyInfoInputs.cache
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Models\obj\Debug\netcoreapp2.2\App.Models.AssemblyInfo.cs
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Models\obj\Debug\netcoreapp2.2\App.Models.dll
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Models\obj\Debug\netcoreapp2.2\App.Models.pdb

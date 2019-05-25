@@ -1,0 +1,8 @@
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Utility\bin\Debug\netcoreapp2.1\App.Utility.deps.json
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Utility\bin\Debug\netcoreapp2.1\App.Utility.dll
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Utility\bin\Debug\netcoreapp2.1\App.Utility.pdb
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Utility\obj\Debug\netcoreapp2.1\App.Utility.csproj.CoreCompileInputs.cache
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Utility\obj\Debug\netcoreapp2.1\App.Utility.AssemblyInfoInputs.cache
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Utility\obj\Debug\netcoreapp2.1\App.Utility.AssemblyInfo.cs
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Utility\obj\Debug\netcoreapp2.1\App.Utility.dll
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Utility\obj\Debug\netcoreapp2.1\App.Utility.pdb

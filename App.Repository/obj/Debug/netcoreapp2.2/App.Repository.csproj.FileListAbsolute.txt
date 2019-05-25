@@ -1,0 +1,14 @@
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\bin\Debug\netcoreapp2.2\App.Repository.deps.json
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\bin\Debug\netcoreapp2.2\App.Repository.dll
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\bin\Debug\netcoreapp2.2\App.Repository.pdb
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\bin\Debug\netcoreapp2.2\App.Gateway.dll
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\bin\Debug\netcoreapp2.2\App.Models.dll
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\bin\Debug\netcoreapp2.2\App.Gateway.pdb
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\bin\Debug\netcoreapp2.2\App.Models.pdb
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.csprojAssemblyReference.cache
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.csproj.CoreCompileInputs.cache
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.AssemblyInfoInputs.cache
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.AssemblyInfo.cs
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.csproj.CopyComplete
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.dll
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.pdb

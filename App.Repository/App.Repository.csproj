@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\App.Gateway\App.Gateway.csproj" />
+    <ProjectReference Include="..\App.Models\App.Models.csproj" />
+  </ItemGroup>
+
+</Project>

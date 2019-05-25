@@ -1,0 +1,16 @@
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\bin\Debug\netcoreapp2.1\App.Service.deps.json
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\bin\Debug\netcoreapp2.1\App.Service.dll
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\bin\Debug\netcoreapp2.1\App.Service.pdb
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\bin\Debug\netcoreapp2.1\App.Gateway.dll
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\bin\Debug\netcoreapp2.1\App.Models.dll
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\bin\Debug\netcoreapp2.1\App.Repository.dll
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\bin\Debug\netcoreapp2.1\App.Models.pdb
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\bin\Debug\netcoreapp2.1\App.Repository.pdb
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\bin\Debug\netcoreapp2.1\App.Gateway.pdb
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\obj\Debug\netcoreapp2.1\App.Service.csprojAssemblyReference.cache
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\obj\Debug\netcoreapp2.1\App.Service.csproj.CoreCompileInputs.cache
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\obj\Debug\netcoreapp2.1\App.Service.AssemblyInfoInputs.cache
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\obj\Debug\netcoreapp2.1\App.Service.AssemblyInfo.cs
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\obj\Debug\netcoreapp2.1\App.Service.csproj.CopyComplete
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\obj\Debug\netcoreapp2.1\App.Service.dll
+F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\obj\Debug\netcoreapp2.1\App.Service.pdb
