@@ -6,3 +6,12 @@ F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Models\obj\Debug\netcorea
 F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Models\obj\Debug\netcoreapp2.2\App.Models.AssemblyInfo.cs
 F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Models\obj\Debug\netcoreapp2.2\App.Models.dll
 F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Models\obj\Debug\netcoreapp2.2\App.Models.pdb
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Models\bin\Debug\netcoreapp2.2\App.Models.deps.json
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Models\bin\Debug\netcoreapp2.2\App.Models.dll
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Models\bin\Debug\netcoreapp2.2\App.Models.pdb
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Models\obj\Debug\netcoreapp2.2\App.Models.csprojAssemblyReference.cache
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Models\obj\Debug\netcoreapp2.2\App.Models.csproj.CoreCompileInputs.cache
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Models\obj\Debug\netcoreapp2.2\App.Models.AssemblyInfoInputs.cache
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Models\obj\Debug\netcoreapp2.2\App.Models.AssemblyInfo.cs
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Models\obj\Debug\netcoreapp2.2\App.Models.dll
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Models\obj\Debug\netcoreapp2.2\App.Models.pdb

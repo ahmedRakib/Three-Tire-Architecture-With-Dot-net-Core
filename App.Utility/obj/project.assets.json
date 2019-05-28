@@ -477,7 +477,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetAppHost/2.2.0": {
-      "sha512": "OK/H8p9Ig6mLMITjXJ4VOewrJg/TU+dAPHE4BdMWMv+8COzBehf7XF1+DofKkmqdHpO2cJoS5Sc9PEZ6PKCbsg==",
+      "sha512": "qIrVLupwT2NYTrf7KM7Nh+mJr36V5MITVRjyGOByVVCwGmQgQmI/6bjZYQv+QdExi4Cm87eCKJX9FdT6nc00Xg==",
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.2.0",
       "files": [
@@ -685,24 +685,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Users\\rakibul.hasan\\.nuget\\packages\\": {},
+    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PERSONAL PRACTISES\\CrudWithCore\\MVCCrudWithCore\\App.Utility\\App.Utility.csproj",
+      "projectUniqueName": "E:\\Practise\\Dot Net Core Practice\\New folder\\Three-Tire-Architecture-With-Dot-net-Core\\App.Utility\\App.Utility.csproj",
       "projectName": "App.Utility",
-      "projectPath": "F:\\PERSONAL PRACTISES\\CrudWithCore\\MVCCrudWithCore\\App.Utility\\App.Utility.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\PERSONAL PRACTISES\\CrudWithCore\\MVCCrudWithCore\\App.Utility\\obj\\",
+      "projectPath": "E:\\Practise\\Dot Net Core Practice\\New folder\\Three-Tire-Architecture-With-Dot-net-Core\\App.Utility\\App.Utility.csproj",
+      "packagesPath": "C:\\Users\\rakibul.hasan\\.nuget\\packages\\",
+      "outputPath": "E:\\Practise\\Dot Net Core Practice\\New folder\\Three-Tire-Architecture-With-Dot-net-Core\\App.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\ProgramData\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\rakibul.hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

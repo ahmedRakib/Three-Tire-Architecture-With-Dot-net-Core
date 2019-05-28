@@ -12,3 +12,17 @@ F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\obj\Debug\netc
 F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.csproj.CopyComplete
 F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.dll
 F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.pdb
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\bin\Debug\netcoreapp2.2\App.Repository.deps.json
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\bin\Debug\netcoreapp2.2\App.Repository.dll
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\bin\Debug\netcoreapp2.2\App.Repository.pdb
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\bin\Debug\netcoreapp2.2\App.Gateway.dll
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\bin\Debug\netcoreapp2.2\App.Models.dll
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\bin\Debug\netcoreapp2.2\App.Gateway.pdb
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\bin\Debug\netcoreapp2.2\App.Models.pdb
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.csprojAssemblyReference.cache
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.csproj.CoreCompileInputs.cache
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.AssemblyInfoInputs.cache
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.AssemblyInfo.cs
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.csproj.CopyComplete
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.dll
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Repository\obj\Debug\netcoreapp2.2\App.Repository.pdb

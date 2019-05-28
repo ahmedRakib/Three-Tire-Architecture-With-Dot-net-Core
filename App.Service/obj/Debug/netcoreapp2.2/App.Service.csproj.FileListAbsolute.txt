@@ -14,3 +14,19 @@ F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\obj\Debug\netcore
 F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\obj\Debug\netcoreapp2.2\App.Service.csproj.CopyComplete
 F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\obj\Debug\netcoreapp2.2\App.Service.dll
 F:\PERSONAL PRACTISES\CrudWithCore\MVCCrudWithCore\App.Service\obj\Debug\netcoreapp2.2\App.Service.pdb
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\bin\Debug\netcoreapp2.2\App.Service.deps.json
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\bin\Debug\netcoreapp2.2\App.Service.dll
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\bin\Debug\netcoreapp2.2\App.Service.pdb
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\bin\Debug\netcoreapp2.2\App.Gateway.dll
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\bin\Debug\netcoreapp2.2\App.Models.dll
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\bin\Debug\netcoreapp2.2\App.Repository.dll
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\bin\Debug\netcoreapp2.2\App.Models.pdb
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\bin\Debug\netcoreapp2.2\App.Repository.pdb
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\bin\Debug\netcoreapp2.2\App.Gateway.pdb
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\obj\Debug\netcoreapp2.2\App.Service.csprojAssemblyReference.cache
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\obj\Debug\netcoreapp2.2\App.Service.csproj.CoreCompileInputs.cache
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\obj\Debug\netcoreapp2.2\App.Service.AssemblyInfoInputs.cache
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\obj\Debug\netcoreapp2.2\App.Service.AssemblyInfo.cs
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\obj\Debug\netcoreapp2.2\App.Service.csproj.CopyComplete
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\obj\Debug\netcoreapp2.2\App.Service.dll
+E:\Practise\Dot Net Core Practice\New folder\Three-Tire-Architecture-With-Dot-net-Core\App.Service\obj\Debug\netcoreapp2.2\App.Service.pdb
